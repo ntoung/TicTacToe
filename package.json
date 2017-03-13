@@ -1,0 +1,23 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TicTacToe.js",
+  "scripts": {
+    "start": "node TicTacToe.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntoung/TicTacToe.git"
+  },
+  "author": "Nathan Toung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntoung/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/ntoung/TicTacToe#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
